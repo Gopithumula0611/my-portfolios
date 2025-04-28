@@ -20,89 +20,89 @@ export const MY_STACK = {
     frontend: [
         {
             name: 'Javascript',
-            icon: '/logo/js.png',
+            icon: '/logos/js.png',
         },
         {
             name: 'Typescript',
-            icon: '/logo/ts.png',
+            icon: 'https://gopithumula0611.github.io/my-portfolios/logos/ts.png',
         },
         {
             name: 'React',
-            icon: '/logo/react.png',
+            icon: '/logos/react.png',
         },
         {
             name: 'Next.js',
-            icon: '/logo/next.png',
+            icon: '/logos/next.png',
         },
         {
             name: 'Redux',
-            icon: '/logo/redux.png',
+            icon: '/logos/redux.png',
         },
         {
             name: 'Tailwind CSS',
-            icon: '/logo/tailwind.png',
+            icon: '/logos/tailwind.png',
         },
         {
             name: 'GSAP',
-            icon: '/logo/gsap.png',
+            icon: '/logos/gsap.png',
         },
         {
             name: 'Frammer Motion',
-            icon: '/logo/framer-motion.png',
+            icon: '/logos/framer-motion.png',
         },
         {
             name: 'SASS',
-            icon: '/logo/sass.png',
+            icon: '/logos/sass.png',
         },
         {
             name: 'Bootstrap',
-            icon: '/logo/bootstrap.svg',
+            icon: '/logos/bootstrap.svg',
         },
     ],
     backend: [
         {
             name: 'Node.js',
-            icon: '/logo/node.png',
+            icon: '/logos/node.png',
         },
         {
             name: 'Nest.js',
-            icon: '/logo/nest.svg',
+            icon: '/logos/nest.svg',
         },
         {
             name: 'Express.js',
-            icon: '/logo/express.png',
+            icon: '/logos/express.png',
         },
     ],
     database: [
         {
             name: 'MySQL',
-            icon: '/logo/mysql.svg',
+            icon: '/logos/mysql.svg',
         },
         {
             name: 'PostgreSQL',
-            icon: '/logo/postgreSQL.png',
+            icon: '/logos/postgreSQL.png',
         },
         {
             name: 'MongoDB',
-            icon: '/logo/mongodb.svg',
+            icon: '/logos/mongodb.svg',
         },
         {
             name: 'Prisma',
-            icon: '/logo/prisma.png',
+            icon: '/logos/prisma.png',
         },
     ],
     tools: [
         {
             name: 'Git',
-            icon: '/logo/git.png',
+            icon: '/logos/git.png',
         },
         {
             name: 'Docker',
-            icon: '/logo/docker.svg',
+            icon: '/Logos/docker.svg',
         },
         {
             name: 'AWS',
-            icon: '/logo/aws.png',
+            icon: '/Logos/AWS.png',
         },
     ],
 };
