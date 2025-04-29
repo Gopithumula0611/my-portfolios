@@ -6,7 +6,6 @@
   "scripts": {
     "build": "next build",
     "deploy": "npm run build && New-Item -Path out/.nojekyll -ItemType File -Force && gh-pages -d out -t true"
-
   },
   "dependencies": {
     "@gsap/react": "^2.1.1",

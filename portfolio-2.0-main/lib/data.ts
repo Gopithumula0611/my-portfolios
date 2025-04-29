@@ -109,7 +109,7 @@ export const MY_STACK = {
 
 export const PROJECTS: IProject[] = [
     {
-        title: 'Epikcart',
+        title: 'Gopi',
         slug: 'epikcart',
         techStack: [
             'React',
@@ -172,7 +172,7 @@ export const PROJECTS: IProject[] = [
         images: [
             '/projects/images/property-pro-1.png',
             '/projects/images/property-pro-2.png',
-            '/projects/images/property-pro-3.png',
+            '/my-portfolios/projects/images/property-pro-3.png',
         ],
         liveUrl: 'https://demo.propertypro.siphertech.com/',
         year: 2023,
